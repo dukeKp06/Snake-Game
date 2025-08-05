@@ -101,13 +101,13 @@ python -m pytest tests/
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License
 
 ## 👨‍💻 Author
 
 **Pranjil Kapoor**
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [Your GitHub Profile]
+- LinkedIn: https://www.linkedin.com/in/pranjilkapoor/
+- GitHub: https://github.com/dukeKp06
 
 ---
 *Built with ❤️ using Python and Pygame*
